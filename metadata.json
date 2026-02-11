@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Aquashore - Scuba Companion",
+  "description": "A comprehensive diving companion for logging dives, exploring underwater species, safety checklists, and booking expeditions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
